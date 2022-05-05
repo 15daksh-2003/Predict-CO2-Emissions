@@ -1,2 +1,1 @@
-# ml_starterapp
-This project contains the starter for the machine learning project to predict the co2 emmission of a vehicle
+Machine Learning(Python) Project using Linear Regression to predict the CO2 emissions of a vehicle.
